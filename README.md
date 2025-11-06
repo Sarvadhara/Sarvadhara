@@ -14,7 +14,7 @@ This README.md will appear on the main Sarvadhara GitHub profile page.
 
 ## 🏢 About Us
 
-**Sarvadhara** is a technology-driven company committed to creating impactful digital solutions.  
+**Sarvadhara Tech Innovations** is a technology-driven company committed to creating impactful digital solutions.  
 We specialize in **Web Development**, **AI**, **IoT**, and **Mobile Applications**, delivering scalable and intelligent products that empower innovation.  
 
 > 💡 *Our mission is to build smart, sustainable, and user-friendly technology solutions that simplify life.*
@@ -45,8 +45,8 @@ We specialize in **Web Development**, **AI**, **IoT**, and **Mobile Applications
 
 | Name | Role |
 |------|------|
-| 👩‍💻 [@username2](#) | UI/UX Designer |
-| 🧑‍💻 [GandhamPrakash](https://github.com/gandhamprakashtechtech) | Full Stack Developer |
+| 👩‍💻 [@Hanish Venkat](#) | UI/UX Designer |
+| 🧑‍💻 [GandhamPrakash](https://github.com/gandhamprakashtech) | Full Stack Developer |
 
 > 💬 We believe teamwork and innovation drive every successful product.
 
