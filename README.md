@@ -37,7 +37,6 @@ We specialize in **Web Development**, **AI**, **IoT**, and **Mobile Applications
 |----------|--------------|-------------|
 | 🌱 **PlantDarbar** | Eco Plant Store with admin dashboard and e-commerce features. | React.js, Node.js, Supabase |
 | 🤖 **AI Chatbot** | Intelligent conversational assistant with API integration. | React.js, Express.js, GPT API |
-| 🏠 **Hostelio** | Firebase-based hostel management system for students and owners. | HTML, CSS, JS, Firebase |
 | 📊 **Smart Attendance** | Face recognition attendance system for colleges. | Python, OpenCV, Flask |
 
 ---
@@ -46,9 +45,8 @@ We specialize in **Web Development**, **AI**, **IoT**, and **Mobile Applications
 
 | Name | Role |
 |------|------|
-| 🧑‍💻 [@gandhamprakashtech](https://github.com/gandhamprakashtech) | Full Stack Developer |
 | 👩‍💻 [@username2](#) | UI/UX Designer |
-| 🧑‍🔧 [@username3](#) | IoT & Embedded Developer |
+| 🧑‍💻 [GandhamPrakash](https://github.com/gandhamprakashtechtech) | Full Stack Developer |
 
 > 💬 We believe teamwork and innovation drive every successful product.
 
